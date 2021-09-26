@@ -1,0 +1,21 @@
+{
+  "name": "@alan-tools/firebird-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "memoizee": "^0.4.15",
+    "node-firebird": "^0.9.9",
+    "windows-1252": "^3.0.1"
+  }
+}
